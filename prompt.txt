@@ -1,0 +1,19 @@
+Creează un site web pentru o cofetărie artizanală numită „Sweet Bliss”.
+
+Site-ul se adresează persoanelor care iubesc deserturile și are ca scop prezentarea cofetăriei și a produselor sale.
+
+Pagina trebuie să conțină:
+- Un Header cu numele cofetăriei și un meniu de navigare.
+- O secțiune Hero cu titlul „Dulce bucurie în fiecare zi”.
+- O secțiune About cu o prezentare a cofetăriei.
+- O secțiune Products cu trei carduri pentru torturi, macarons și cupcakes, fiecare cu imagine și descriere.
+- O secțiune Contact cu date de contact și program.
+- Un Footer cu numele cofetăriei și anul 2026.
+
+Designul trebuie să fie modern, elegant și delicat, cu nuanțe de roz pastel, crem și alb. Folosește fonturi elegante, imagini cu deserturi și carduri cu colțuri rotunjite.
+
+Generează codul în două fișiere separate: index.html și style.css.
+
+Folosește HTML5 semantic, CSS3, Flexbox și Media Queries pentru ca pagina să se adapteze la telefoane și calculatoare.
+
+Nu utiliza framework-uri externe. Codul trebuie să fie simplu, organizat și ușor de înțeles.
